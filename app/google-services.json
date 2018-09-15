@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243441052115",
+    "firebase_url": "https://handphone-96b3d.firebaseio.com",
+    "project_id": "handphone-96b3d",
+    "storage_bucket": "handphone-96b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243441052115:android:e98d4d986fccc1d8",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.handphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243441052115-csf3sdc8jof8c8184cl9mh68rtvbaals.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuyVnlwDL60ENdo5woG4_PPuW6Qr5c9PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
